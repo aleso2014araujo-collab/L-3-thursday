@@ -1,0 +1,26 @@
+body{
+    color: red;
+}
+#header{
+    background-color: darkblue;
+    color: white;
+    text-align: center;
+    padding: 30px;
+    font-family: Arial, sans-serif;
+    letter-spacing: 1.5px;
+}
+
+#header h1{
+    color:black;
+}
+
+#header p{
+    color:black;
+}
+
+#banner{
+    background-image: url("https://images.wallpapersden.com/image/download/iso-cool-valorant-art_bmZsbGuUmZqaraWkpJRnZmprrWZsZ2s.jpg");
+    background-size: cover;
+    background-position: center;
+    color: white;
+}
